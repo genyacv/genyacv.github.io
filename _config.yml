@@ -24,7 +24,7 @@ github_username:  genyacv
 
 # Build settings
 markdown: kramdown
-theme: jekyll-swiss
+theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
   - jekyll-sitemap
